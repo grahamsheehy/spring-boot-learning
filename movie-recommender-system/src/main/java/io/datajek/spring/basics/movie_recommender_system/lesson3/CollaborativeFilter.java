@@ -7,7 +7,7 @@ public class CollaborativeFilter implements Filter {
 	public String[] getRecommendations(String movie) {
 		// login
 		return new String[] {"Finding Dory", "another ", "Sharks Tale"};
-		
+		//test
 	}
 
 }
